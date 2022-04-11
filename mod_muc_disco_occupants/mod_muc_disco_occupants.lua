@@ -1,4 +1,5 @@
 -- luacheck: globals module
+-- SPDX-License-Identifier: MIT
 module:depends'muc'
 
 local FIELDNAME = "{xmpp:prosody.im}muc#roomconfig_discover_occupants"
